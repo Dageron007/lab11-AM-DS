@@ -6,7 +6,7 @@ One function per operation, in order.
 """
 # First example
 
-# https://github.com/YOUR_USERNAME/lab11-AM-DS
+# https://github.com/Dageron007/lab11-AM-DS.git
 # Partner 1: Danila Sterlev
 # Partner 2: Anthony Mitromaras
 
